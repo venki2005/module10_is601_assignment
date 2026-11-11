@@ -6,12 +6,13 @@ A secure FastAPI web application featuring an asynchronous/synchronous database 
 
 ## 🐳 Docker Hub Repository
 
-The automated CI/CD pipeline packages and deploys production-ready container images directly to Docker Hub upon passing all automated tests.
+The automated CI/CD pipeline packages and deploys production-ready container images directly to Docker Hub upon passing all automated tests[cite: 7].
 
-- **Docker Hub Repository**: [https://hub.docker.com/r/venki2005/fastapi-secure-app](https://hub.docker.com/r/venki2005/fastapi-secure-app)
+- **Docker Hub Repository**: [https://hub.docker.com/r/vrv7222/601_module10](https://hub.docker.com/r/vrv7222/601_module10)
+- **Tags & Releases**: [https://hub.docker.com/r/vrv7222/601_module10/tags](https://hub.docker.com/r/vrv7222/601_module10/tags)
 - **Pull Latest Image**:
   ```bash
-  docker pull venki2005/fastapi-secure-app:latest
+  docker pull vrv7222/601_module10:latest
   ```
 
 ---
